@@ -18,6 +18,3 @@ Machine Learning algorithms used:
 8. Artificial Neural Network with 1 Hidden layer (Keras)
 
 Accuracy achieved: 95% (Random Forest)
-
-Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
-# heart_prediction
